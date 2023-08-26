@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/REACT-blue?style=white&logo=react&color=%23323330" />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uju-chinedum" alt="uju-chinedum" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=adebimpecole)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🌱 I’m currently learning **Php**
 
