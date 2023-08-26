@@ -2,7 +2,7 @@
 <h3 align="center">A Front End Web Developer and budding Backend Developer</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/SASS-blue?style=white&logo=Sass&color=white" />
+  <img src="https://img.shields.io/badge/SASS-blue?logo=sass&logoColor=white&color=%23bf4080" />
   <img src="https://img.shields.io/badge/HTML-blue?style=white&logo=html5&color=%23fff" />
   <img src="https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=blue&color=%23fff" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-blue?logo=javascript&logoColor=white&color=blue" />
