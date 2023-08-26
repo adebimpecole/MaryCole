@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/SASS-blue?logo=sass&logoColor=white&color=%23bf4080" />
   <img src="https://img.shields.io/badge/HTML-blue?style=white&logo=html5&color=%23fff" />
   <img src="https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=blue&color=%23fff" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-blue?logo=javascript&logoColor=white&color=blue" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-blue?logo=javascript&logoColor=yello&color=%23323330" />
   <img src="https://img.shields.io/badge/REDUX-blue?logo=redux&logoColor=white&color=%23323330" />
   <img src="https://img.shields.io/badge/REACT-blue?style=white&logo=react&color=%23323330" />
 </p>
